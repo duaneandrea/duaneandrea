@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @duaneandrea
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on web system applications and data science projects
+- 📫 How to reach me simba@hotbox.co.zw
