@@ -1,4 +1,4 @@
-Hello, I'm Duane Andrea! 👋
+Hello, I'm Simbarashe Duane Andrea! 👋
 Full Stack Web Developer | Machine Learning Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about developing robust web applications and exploring the exciting field of machine learning. With over 8 years of experience as a Backend Developer, I have expertise in Node.js, PHP, and frameworks like Laravel, Symfony, Codeigniter, and NestJS. I also have deep knowledge in API design, cloud architecture using AWS and Docker, and database optimization.
@@ -17,13 +17,15 @@ I'm open to collaborating on web system applications and data science projects. 
 📫 Get in Touch
 You can reach me via email at simbarasheandrea@gmail.com. I'm always interested in connecting with fellow developers and discussing new opportunities.
 
-💻 Skills
-#PHP (Laravel, Symfony, CodeIgniter)
-#Javascript (Node.js,Vue.js,React.js)
-#Java (Spring Framework)
-#SQL (MySQL, Postgress, Oracle, MSSQL)
-#GIT
-#AWS
+💻 Skills<br>
+#PHP (Laravel, Symfony, CodeIgniter)<br>
+#Javascript (Node.js,Vue.js,React.js)<br>
+#Java (Spring Framework)<br>
+#SQL (MySQL, Postgress, Oracle, MSSQL)<br>
+#GIT<br>
+#AWS<br>
+#Python (Django)<br><br>
+
 🌐 Languages
 English (Native)
 Looking forward to connecting with you and exploring the possibilities of working together on innovative projects! Let's build something amazing! 😄
