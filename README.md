@@ -12,10 +12,10 @@ Optimizing database performance and load times by 40% for an e-commerce site bui
 I'm currently expanding my knowledge in Machine Learning. Exploring various algorithms and techniques to understand how they can be applied to solve real-world problems.
 
 👯 Collaboration
-I'm open to collaborating on web system applications and data science projects. If you have an exciting project in mind, feel free to reach out to me at simba@hotbox.co.zw.
+I'm open to collaborating on web system applications and data science projects. If you have an exciting project in mind, feel free to reach out to me at simbarasheandrea@gmail.com
 
 📫 Get in Touch
-You can reach me via email at simba@hotbox.co.zw. I'm always interested in connecting with fellow developers and discussing new opportunities.
+You can reach me via email at simbarasheandrea@gmail.com. I'm always interested in connecting with fellow developers and discussing new opportunities.
 
 💻 Skills
 Git
