@@ -18,12 +18,12 @@ I'm open to collaborating on web system applications and data science projects. 
 You can reach me via email at simbarasheandrea@gmail.com. I'm always interested in connecting with fellow developers and discussing new opportunities.
 
 💻 Skills
-Git
-AWS
-MongoDB
-SQL
-Node.js
-PHP
+#PHP (Laravel, Symfony, CodeIgniter)
+#Javascript (Node.js,Vue.js,React.js)
+#Java (Spring Framework)
+#SQL (MySQL, Postgress, Oracle, MSSQL)
+#GIT
+#AWS
 🌐 Languages
 English (Native)
 Looking forward to connecting with you and exploring the possibilities of working together on innovative projects! Let's build something amazing! 😄
