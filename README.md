@@ -29,5 +29,3 @@ You can reach me via email at simbarasheandrea@gmail.com. I'm always interested 
 🌐 Languages
 English (Native)
 Looking forward to connecting with you and exploring the possibilities of working together on innovative projects! Let's build something amazing! 😄
-
-Feel free to customize and modify this Readme according to your preferences and add any additional information you'd like to showcase.
